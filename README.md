@@ -75,7 +75,7 @@ Nós da Conductor trabalhamos para transformar a experiência de compra de nosso
 
 	## Instruções
 	
-	- Crie um repositório privado no bitbucket para o projeto e adicione como colaborador o usuário **desafioqa**;
+	- Crie um repositório privado no bitbucket para o projeto e adicione como colaborador o usuário **qadesafio**;
 	- Teste a aplicação e Desenvolva automação dos testes, junto com todos os artefatos já citados e envie até a data prevista.
 	-  Após concluir seu trabalho faça um push;
 	-  Envie um e-mail ao RH Conductor notificando a finalização do desafio para validação.
