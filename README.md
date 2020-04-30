@@ -64,14 +64,15 @@ Nós da Conductor trabalhamos para transformar a experiência de compra de nosso
 			2. Campos obrigatórios contêm o símbolo(*);
 			3. Para realizar uma venda, apenas deverá ser permitido caso o saldo do cliente for igual ou superior ao valor da compra.		
 			
-	- Aplicação Back-end consiste em uma listagem de produtos:
+	- Aplicação Back-end consiste em uma chamadas de usuários:
 	
 		+ Fluxo de Atividade
-			+ Consumir API REST (json) de listagem de produtos.	
+			+ Consumir API REST (json).	
 			
 		- Regras de Negócio
 			
-			1. Header - **Token: desafio**
+			1. Preciso ver as chamadas da api nos diversos métodos (POST,GET,DELETE...)
+			2. Além disso como você aplica as validações de chamadas de API.
 
 	## Instruções
 	
