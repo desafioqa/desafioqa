@@ -73,6 +73,7 @@ Nós da Conductor trabalhamos para transformar a experiência de compra de nosso
 			
 			1. Realizar as chamadas nos diversos métodos da API. (POST,GET,DELETE...)
 			2. Utilize seu conhecimento para aplicar as melhores validações nas chamadas da API
+			3. Header - Token: desafio
 
 	## Instruções
 	
