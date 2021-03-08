@@ -28,7 +28,8 @@ Nós da Conductor trabalhamos para transformar a experiência de compra de nosso
 
     Aplicação Back-end(API-REST)		
 		
-	> * Implementar testes automatizados - listar produtos;
+	> * Implementar testes automatizados na API (https://reqres.in/);
+	> * Implementar requisições rest de GET, POST, PUT entre outras.
 
 - O que será diferencial:
 
@@ -73,7 +74,6 @@ Nós da Conductor trabalhamos para transformar a experiência de compra de nosso
 			
 			1. Realizar as chamadas nos diversos métodos da API. (POST,GET,DELETE...)
 			2. Utilize seu conhecimento para aplicar as melhores validações nas chamadas da API
-			3. Header - Token: desafio
 
 	## Instruções
 	
